@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**aandrew21/aandrew21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 ## 👋 About Me :<br><br>💻 I’m currently working on backend and full-stack development projects using Django, Django REST Framework, and Next.js  <br>🤝 I’m looking to collaborate on innovative web applications, APIs, and startup ideas  <br>🛠️ I’m looking for help with cloud deployment, scalable architectures, and modern software engineering practices  <br>🌱 I’m currently learning advanced backend engineering, system design, and database optimization  <br>🗄️ Experienced with PostgreSQL, Oracle Database, and Microsoft SQL Server  <br>💬 Ask me about Python, Django, Next.js, REST APIs, PostgreSQL, Oracle DB, and MSSQL  <br>⚡ Fun fact: When I’m not coding, I’m probably watching anime, gaming 🎮, or exploring new tech ideas 🚀
 
@@ -21,4 +18,3 @@
 [![](https://komarev.com/ghpvc/?username=aandrew21&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
